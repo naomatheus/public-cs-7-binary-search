@@ -1,17 +1,14 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
-
 # Search Algorithms
 
 ## Overview
-In this lesson, you'll learn how the binary search algorithm works to find information efficiently and elegantly.
+In this lesson, I learned how the binary search algorithm works to find information efficiently and elegantly.
 
-There are two components to this lesson:
+There were two components to this lesson:
 1. [myGA module: Search Algorithms](https://my.generalassemb.ly/activities/633)
 2. [In-Class Exercise: Implementing Binary Search](exercises/searches.js)
 
->**Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** 
 
-## Learning Objectives
+## Learning Outcomes
 By the end of this lesson, you will be able to:
 - Understand the Big O complexities of brute force and binary search approaches.
 - Describe how binary search works.
@@ -26,6 +23,7 @@ By the end of this lesson, you will be able to:
 1.5 hours total:
 * 0.5 hour myGA
 * 1 hour in class
+* Many many hours outside of class
 
 ## Additional Resources
 - Check out [this article](https://medium.com/@codingfreak/binary-search-practice-problems-4c856cd9f26c) that outlines common interview questions related to binary search.
